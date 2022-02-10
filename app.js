@@ -125,3 +125,5 @@ const creatorNameInner = document.createElement("p");
 nameof.append(creatorNameContent);
 const creatorNameInnerContent = document.createTextNode("Jules Wyvern");
 creatorNameInner.append(creatorNameInnerContent);
+
+alert("Я оцениваю свою работу на 100 баллов");
