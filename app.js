@@ -16,7 +16,7 @@ wrapperID.style.cssText = `
 width: 20%;
 background-color: hsl(216, 50%, 16%);
 margin:auto;
-padding: 10px;
+padding: 20px;
 box-shadow: 0px 0px 25px #141010;
 border-radius: 5%;
 `;
@@ -125,7 +125,7 @@ div.append(line);
 line.style.cssText = `
 height: 1px;
 width: 100%;
-background-color:  hsl(215, 32%, 27%);
+border-color: rgb(47, 65, 91);
 `;
 
 // Creator Info
