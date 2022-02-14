@@ -171,4 +171,4 @@ creatorNameInner.style.cssText = `
 margin-left: 10px;
 color: hsl(0, 0%, 100%);
 `;
-// alert("Я оцениваю свою работу на 100 баллов");
+alert("Я оцениваю свою работу на 100 баллов");
